@@ -1,0 +1,9 @@
+^\.github/
+ignore$
+(?:^|/)Cargo\.toml$
+(?:^|/)LICENSE
+\.cert$
+\.chain$
+\.der$
+\.p12$
+\.rsa$
